@@ -1,16 +1,23 @@
 body {
   text-align:center;
-  border:right;
-  border:justify;
   color: blue;
+  background-color:aqua;
 }
 
 h1 {
   color: red;
+  text-decoration:line-through;
+  display:flexbox;
+}
+
+h3 {
+  border:right;
+  border:left;
+  border-radius: 20%;
 }
 
 .quote {
-  font-size: medium;
+  font-size: 200;
   color: rgb(49, 12, 35);
 }
 
@@ -21,6 +28,7 @@ h1 {
 
 #intro p {
   color: green;
+  box-shadow:5cap
 }
 
 .super-important-omg {
