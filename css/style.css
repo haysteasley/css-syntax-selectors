@@ -1,5 +1,5 @@
 body {
-  color: brown;
+  color: blue;
 }
 
 h1 {
@@ -7,11 +7,13 @@ h1 {
 }
 
 .quote {
-  color: gray;
+  font-size: medium;
+  color: rgb(49, 12, 35);
 }
 
 .quote.narrator {
   color: black;
+  color-scheme: light;
 }
 
 #intro p {
